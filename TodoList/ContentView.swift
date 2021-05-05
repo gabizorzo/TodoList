@@ -7,6 +7,14 @@
 
 import SwiftUI
 
+/* MVVM Architecture
+ 
+ Mode - data point
+ View - UI
+ ViewModel - maneges Models for View
+ 
+ */
+
 struct ContentView: View {
     var body: some View {
         Text("Hello, world!")
